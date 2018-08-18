@@ -1,5 +1,5 @@
 # GettingAndCleaningDataCourse
-Coursera project 
+Getting And Cleaning Data Course
 
 This repo consists of 2 files - 
 1. CodeBook.md - Data to indicate all the variables and summaries calculated and any other relevant information.
